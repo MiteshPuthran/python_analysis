@@ -123,7 +123,6 @@ Finding out all the collisions, injury and death for all the boroughs in NYC and
 6. Plotting a graph to display all the parameters of collision, injury and death.
 7. Saving the plotted graph as a PNG file.
 #### Outputs of Analysis:
-1. [CSV File - Snowinjury.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
-2. [CSV File - Raininjury.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
-3. [Plot Files - Snowinjury.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
-4. [Plot Files - Raininjury.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
+
+1. [Plot Files - Collision.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
+
