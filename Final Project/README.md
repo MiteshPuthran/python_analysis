@@ -78,14 +78,15 @@ Finding out monthly collisions in Manhattan to the monthly in NYC for the year 2
 5. Saving the data from the dataframe to a CSV file.
 6. Plotting a bar graph to display the factors for the same and a pie chart to display the percentages of collision each month. 
 #### Outputs of Analysis:
-1. [CSV File - Vehicle.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
-2. [Plot Files - Vehicle.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
+1. [CSV File - Monthly.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
+2. [Plot Files - Monthly.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
 ## Analysis 4:
 ## _Snowfall and Rainfall in inches causing injury to people in NYC from 2015-2017_
-Finding out the snowfall and rainfall in inches which caused maximum number of injuries
+Finding out the highest snowfall and rainfall in inches which caused maximum number of injuries  from collision to the people of NYC
 <br>
-![](GeneratedImages/vehicle.png?raw=true)
+![](GeneratedImages/snowinjury.png?raw=true)
+![](GeneratedImages/raininjury.png?raw=true)
 <br>
 #### Steps for the analysis:
 1. Reading the raw data from the CSV file.
