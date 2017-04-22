@@ -75,8 +75,8 @@ Finding out monthly collisions in Manhattan to the monthly in NYC for the year 2
 3. Seperating out month and year from the date using datetime.striptime method.
 4. Selecting the whole data for the NYC data and seperating Manhattan using the borough data.
 5. Calculating the percentage of accidents in Manhattan to that of NYC.
-5. Saving the data from the dataframe to a CSV file.
-6. Plotting a bar graph to display the factors for the same and a pie chart to display the percentages of collision each month. 
+6. Saving the data from the dataframe to a CSV file.
+7. Plotting a bar graph to display the monthly collision for the same and a pie chart to display the percentages of collision each month. 
 #### Outputs of Analysis:
 1. [CSV File - Monthly.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Monthly.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
@@ -90,11 +90,15 @@ Finding out the highest snowfall and rainfall in inches which caused maximum num
 <br>
 #### Steps for the analysis:
 1. Reading the raw data from the CSV file.
-2. Taking the total count of the persons killed by grouping the vehicle type and borough involved in collision.
-3. Selecting the date range for the collisions.
-4. Inserting the data into the dataframe with the borough, vehicle type and the corresponding number of people that were killed by the collision.
+2. Selecting the date range from the raw data to do analysis.
+3. Converting the date column to datetime format.
+4. Merging the data together and calculating the mean date from collision data as it includes multiple entries for a single day.
+5. Grouping by snowfall and the total persons injured calculated by adding all the injuries.
 5. Saving the data from the dataframe to a CSV file.
-6. Plotting a graph to display the factors for the same. 
+6. Plotting a graph to display the snowfall in inches and the number of injuries for the same.
+7. Following the same steps as above for rainfall analysis.
 #### Outputs of Analysis:
-1. [CSV File - Vehicle.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
-2. [Plot Files - Vehicle.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
+1. [CSV File - Snowinjury.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
+2. [CSV File - Raininjury.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
+3. [Plot Files - Snowinjury.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
+4. [Plot Files - Raininjury.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
