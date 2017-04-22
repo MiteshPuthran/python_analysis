@@ -31,6 +31,7 @@ The following analysis were made using the merged dataset.
 ### Analysis 1:
 #### Factors that caused maximum collision in whole NYC from 2015-2017
 Finding out the top 10 factors that caused collision in NYC by using factors like Contibuting Factor and Number of Persons killed.
+![](GeneratedImages/factor.png?raw=true
 #### Steps for the analysis:
 1. Reading the raw data from the CSV file.
 2. Taking the total count of the persons killed by grouping the factors responsible for collision.
@@ -39,4 +40,7 @@ Finding out the top 10 factors that caused collision in NYC by using factors lik
 5. Saving the data from the datframe to a CSV file.
 6. Plotting a graph to display the factors for the same. 
 #### Outputs of Analysis:
-1. [here](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/ProcessedData).
+1. [CSV Files](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
+2. [Plot Files](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
+
+
