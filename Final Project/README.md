@@ -44,7 +44,7 @@ Finding out the top 10 factors that caused collision in NYC by using factors lik
 #### Outputs of Analysis:
 1. [CSV File - Factor.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Factor.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
-<br>
+
 ## Analysis 2:
 ## _Vehicle type involved in collision and number of people killed at each borough of NYC from 2015-2017_
 Finding out the top vehicle types that caused collision in each borough of NYC by using factors like Borough, Vehicle Type and Number of Persons killed.
@@ -61,7 +61,7 @@ Finding out the top vehicle types that caused collision in each borough of NYC b
 #### Outputs of Analysis:
 1. [CSV File - Vehicle.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Vehicle.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
-<br>
+
 ## Analysis 3:
 ## _Monthly collisions in Manhattan to that of the whole NYC for the year 2016_
 Finding out monthly collisions in Manhattan to the monthly in NYC for the year 2016
@@ -80,7 +80,7 @@ Finding out monthly collisions in Manhattan to the monthly in NYC for the year 2
 #### Outputs of Analysis:
 1. [CSV File - Vehicle.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Vehicle.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
-<br>
+
 ## Analysis 4:
 ## _Snowfall and Rainfall in inches causing injury to people in NYC from 2015-2017_
 Finding out the snowfall and rainfall in inches which caused maximum number of injuries
