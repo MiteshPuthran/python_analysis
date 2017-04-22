@@ -31,7 +31,9 @@ The following analysis were made using the merged dataset.
 ### Analysis 1:
 #### Factors that caused maximum collision in whole NYC from 2015-2017
 Finding out the top 10 factors that caused collision in NYC by using factors like Contibuting Factor and Number of Persons killed.
-![](GeneratedImages/factor.png?raw=true
+<br>
+![](GeneratedImages/factor.png?raw=true)
+<br>
 #### Steps for the analysis:
 1. Reading the raw data from the CSV file.
 2. Taking the total count of the persons killed by grouping the factors responsible for collision.
