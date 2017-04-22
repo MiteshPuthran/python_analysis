@@ -38,11 +38,26 @@ Finding out the top 10 factors that caused collision in NYC by using factors lik
 1. Reading the raw data from the CSV file.
 2. Taking the total count of the persons killed by grouping the factors responsible for collision.
 3. Removing unwanted column where factors are not specified.
-4. Inserting the data into the dataframe with the facorts and the corresonding number of people that were killed by the collision.
-5. Saving the data from the datframe to a CSV file.
+4. Inserting the data into the dataframe with the factors and the corresponding number of people that were killed by the collision.
+5. Saving the data from the dataframe to a CSV file.
 6. Plotting a graph to display the factors for the same. 
 #### Outputs of Analysis:
-1. [CSV Files](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
-2. [Plot Files](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
+1. [CSV File - Factor.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
+2. [Plot Files - Factor.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
-
+### Analysis 2:
+#### Vehicle type involved in collision and number of people killed at each borough of NYC from 2015-2017
+Finding out the top vehicle types that caused collision in each borough of NYC by using factors like Borough, Vehicle Type and Number of Persons killed.
+<br>
+![](GeneratedImages/vehicle.png?raw=true)
+<br>
+#### Steps for the analysis:
+1. Reading the raw data from the CSV file.
+2. Taking the total count of the persons killed by grouping the vehicle type and borough involved in collision.
+3. Selecting the date range for the collisions.
+4. Inserting the data into the dataframe with the borough, vehicle type and the corresponding number of people that were killed by the collision.
+5. Saving the data from the dataframe to a CSV file.
+6. Plotting a graph to display the factors for the same. 
+#### Outputs of Analysis:
+1. [CSV File - Vehicle.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
+2. [Plot Files - Vehicle.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
