@@ -16,6 +16,9 @@ The data for the project analysis were downloaded from the following sites:
 ### Fetching the data
 * For the vehicle collision data, the data is downloaded using the API token key obtained after registering in their website. The data is in the form of JSON file.
 * The weather data is downloaded after recieving a email from NOAA Weather Data with the download link.
+* The notations in the weather datset are as follows: PRCP = Precipitation (inches as per user preference, inches on Daily Form)
+* SNOW = Snowfall (inches as per user preference, inches on Daily Form)
+* SNWD = Snow depth ((inches as per user preference, inches on Daily Form)
 
 ### Storing the data
 * The downloaded vehicle collision data JSON files are stored according to the different boroughs of NewYork(Manhattan, Queens, etc) and their respective zip codes. You can view the respective folder structure [here](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/ProcessedData).
