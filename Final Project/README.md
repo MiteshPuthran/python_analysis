@@ -43,6 +43,7 @@ Finding out the top 10 factors that caused collision in NYC by using factors lik
 6. Plotting a graph to display the factors for the same.
 7. Saving the plotted graph as a PNG file.
 #### Outputs of Analysis:
+![](GeneratedImages/factortable.png?raw=true)
 1. [CSV File - Factor.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Factor.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
@@ -61,6 +62,7 @@ Finding out the top vehicle types that caused collision in each borough of NYC b
 6. Plotting a graph to display the vehicle type and number of people killed in each borough for the same. 
 7. Saving the plotted graph as a PNG file.
 #### Outputs of Analysis:
+![](GeneratedImages/vehicletable.png?raw=true)
 1. [CSV File - Vehicle.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Vehicle.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
@@ -81,6 +83,7 @@ Finding out monthly collisions in Manhattan to the monthly in NYC for the year 2
 7. Plotting a bar graph to display the monthly collision for the same and a pie chart to display the percentages of collision each month. 
 8. Saving the plotted graph as a PNG file.
 #### Outputs of Analysis:
+![](GeneratedImages/monthlytable.png?raw=true)
 1. [CSV File - Monthly.csv](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedCSV).
 2. [Plot Files - Monthly.png](https://github.com/MITESHPUTHRANNEU/puthran_mitesh_spring2017/tree/master/Final%20Project/GeneratedImages).
 
